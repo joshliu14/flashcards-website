@@ -1,0 +1,22 @@
+.homeView {
+  text-align: center;
+  font-size: 40px;
+  color: black;
+}
+
+.deckList {
+  display: block;
+  background-color: aqua;
+  align-content: center;
+  width: 20%;
+  margin-bottom: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: gold;
+}

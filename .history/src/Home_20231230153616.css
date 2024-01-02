@@ -1,0 +1,10 @@
+.homeView {
+  text-align: center;
+  font-size: 40px;
+  color: blue;
+}
+
+.homeNav {
+  padding: 10px 10px;
+  border: 1px blue;
+}

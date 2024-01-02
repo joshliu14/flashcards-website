@@ -1,0 +1,16 @@
+.flash-card {
+  background-color: aqua;
+  color: black;
+  padding: 200px;
+  border: 2px black;
+}
+.cardView {
+  text-align: center;
+  font-size: 40px;
+  color: black;
+}
+
+.viewNav {
+  padding: 10px 10px;
+  box-shadow: 1px black;
+}

@@ -1,0 +1,10 @@
+.homeView {
+  text-align: center;
+  font-size: 40px;
+  color: blue;
+}
+
+.deckList {
+  display: block;
+  margin-bottom: 20px;
+}
